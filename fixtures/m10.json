@@ -1,0 +1,31 @@
+{
+  "id": "mtg_7a3d91c5e2f048b6",
+  "name": "Robin / Helios",
+  "occurred_at": "2026-08-18T14:00:00-07:00",
+  "duration_seconds": 2040,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Robin Hayes", "email": "robin.hayes@gmail.com"}
+  ],
+  "notes": "Intro with Robin Hayes, who booked from a Gmail address. She is VP of Sales at Iris Health. Team of about 40 AEs. She needs a forecasting cadence; they are coming off spreadsheets and a light CRM.",
+  "action_items": [
+    {"text": "Send Robin a first-call recap and a proposed sandbox for an Iris Health AE pod", "owner_email": "priya@helios.example"},
+    {"text": "Share AE count by pod and the current forecast spreadsheet", "owner_email": "robin.hayes@gmail.com"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Robin, thanks for the time. The invite came through as Gmail — I don't want to assume a company. Who am I talking to?", "timestamp": 8},
+    {"speaker": "Robin Hayes", "text": "I'm Robin Hayes. I use Gmail because our IT still hasn't given me a stable alias. I'm at Iris Health — we're a behavioral-health group, not a hospital system. I run sales. About forty AEs across four pods. That's the company, even if the calendar doesn't show it.", "timestamp": 20},
+    {"speaker": "Priya Shah", "text": "Iris Health, forty AEs. What made you take a Helios meeting?", "timestamp": 56},
+    {"speaker": "Robin Hayes", "text": "I need forecasting that the pods will actually live in. Right now each manager has a sheet, I roll them up on Sunday, and the board asks why the number moved. We grew fast. The CRM is a thin Salesforce we barely use. Forecasting is the hole.", "timestamp": 68},
+    {"speaker": "Priya Shah", "text": "Forty AEs is a real rollout, not a founder sheet. Are the pods all selling the same motion?", "timestamp": 104},
+    {"speaker": "Robin Hayes", "text": "Mostly employer contracts, some clinic partnerships. Cycles are long. I don't need a brand-new CRM. I need a forecast meeting I can inspect. If Helios can't sit on Salesforce, this is a short call.", "timestamp": 118},
+    {"speaker": "Priya Shah", "text": "We sit on Salesforce. Typical path is one pod as a sandbox, then the other three. For Iris Health I'd want a manager in the first working session so it isn't just you and me nodding at a demo.", "timestamp": 148},
+    {"speaker": "Robin Hayes", "text": "I can bring Devon, who runs the East pod. I should also say: please use my work context, not this Gmail, once we're past intro. The Gmail is how I booked because I was on a plane. Mail about Iris should go to me at work once I have the alias, and I'll send that.", "timestamp": 176},
+    {"speaker": "Priya Shah", "text": "Send the alias when you have it. Until then I'll recap here. Any other tools in the mix — Gong, a CPQ, a data team?", "timestamp": 216},
+    {"speaker": "Robin Hayes", "text": "Gong for calls, no CPQ, no dedicated RevOps yet. That's why I need something an ops-minded VP can run. We're our own shop — Iris Health, forty AEs, behavioral health. Forecasting is the job.", "timestamp": 232},
+    {"speaker": "Priya Shah", "text": "I'll send a recap and a sandbox proposal for Iris Health. If you can share headcount by pod and a sanitized forecast sheet, I can make the first session look like your Monday, not a generic health demo.", "timestamp": 272},
+    {"speaker": "Robin Hayes", "text": "I'll send the sheet. Timing: I'd like a working session before September. Board is mid-September and I don't want another quarter of Sunday roll-ups.", "timestamp": 308},
+    {"speaker": "Priya Shah", "text": "We can do that. I'll propose two times. Thanks Robin — good to meet you, and thanks for spelling out Iris Health. The Gmail invite was a little mysterious.", "timestamp": 332},
+    {"speaker": "Robin Hayes", "text": "Yeah. Robin Hayes, Iris Health, forty AEs, we need forecasting. Talk soon.", "timestamp": 356}
+  ]
+}

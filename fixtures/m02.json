@@ -1,0 +1,32 @@
+{
+  "id": "mtg_1a9f3c8e2d7b5a01",
+  "name": "Harborview intro",
+  "occurred_at": "2026-08-12T10:00:00-07:00",
+  "duration_seconds": 2100,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Keira Holt", "email": "ceo@harborview.io"},
+    {"name": "Ben Adeyemi", "email": "ops@harborview.io"}
+  ],
+  "notes": "First conversation with Harborview Labs. Keira Holt (CEO) and Ben Adeyemi (ops) are rolling forecasting out to a new AE team. They do not have a sales system today beyond spreadsheets. Interested in how Helios would run a first forecast cycle.",
+  "action_items": [
+    {"text": "Send a one-pager on a first forecast rollout for a team of Harborview's size", "owner_email": "priya@helios.example"},
+    {"text": "Share current AE headcount and the spreadsheet they use for weekly commits", "owner_email": "ops@harborview.io"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Keira, Ben — thanks for the intro time. I saw Harborview Labs on the calendar; I don't think we've spoken before. I'd love to hear what you're building and why forecasting is on your list.", "timestamp": 6},
+    {"speaker": "Keira Holt", "text": "This is a first meeting, yes. I'm Keira Holt, I run Harborview Labs. We sell lab-ops software to hospital research groups. We just hired our first real AE pod — eight people — and I am done running the number out of a Google Sheet I built in 2023.", "timestamp": 18},
+    {"speaker": "Ben Adeyemi", "text": "I'm Ben Adeyemi, I own ops. Keira still does the board forecast. I stitch the sheet on Friday. The new AEs each have a different idea of commit, and our first board meeting with the expanded team is in October. We need a forecast rollout that doesn't take a quarter to land.", "timestamp": 52},
+    {"speaker": "Priya Shah", "text": "Got it. Greenfield team, founder-built sheet, first time the number has to survive a pod instead of two people. What does success look like for that October board meeting?", "timestamp": 88},
+    {"speaker": "Keira Holt", "text": "I want to walk in with a commit I didn't type myself. Ben should be able to show which deals moved and why. I don't need a giant RevOps org. Harborview Labs is still small. I need something an ops lead and a CEO can run without hiring a forecasting analyst.", "timestamp": 108},
+    {"speaker": "Ben Adeyemi", "text": "The AEs are coming from bigger companies, so they ask for a real tool. If I tell them the process is the sheet, I lose them in month two. A forecast rollout is also a credibility thing internally.", "timestamp": 148},
+    {"speaker": "Priya Shah", "text": "Typical first rollout for a team like yours is: import the pipeline, lock a commit definition, run one manager meeting in the product, then use that recording as the template. No six-month implementation. You'd be live for the October cycle if we started in the next couple of weeks.", "timestamp": 176},
+    {"speaker": "Keira Holt", "text": "That's the pace I want. We're not evaluating five vendors. I asked for this intro because a founder I know said Helios didn't drown them in professional services. If the product can carry a first forecast meeting, we should keep talking.", "timestamp": 214},
+    {"speaker": "Ben Adeyemi", "text": "Two practical things. We use HubSpot for CRM today — very lightly — and Google Workspace. I can export the sheet. I cannot promise a data team. Also, hospital buyers mean we get security questionnaires. I don't want to stall a rollout on that.", "timestamp": 248},
+    {"speaker": "Priya Shah", "text": "HubSpot plus a sheet is a common starting point. We'd map the fields you already trust, not redesign your CRM. Security packet is standard; I'll include it with the one-pager. Ben, if you can send headcount and a sanitized copy of the weekly commit tab, I can sketch the first four weeks against your actual deals.", "timestamp": 292},
+    {"speaker": "Keira Holt", "text": "Ben can send that. I don't want a theater demo with fake robots. Show me Harborview's shape: long hospital cycles, a few big lab-ops deals, a CEO who still joins forecast. If that looks honest, we'll do a working session with the AE lead.", "timestamp": 334},
+    {"speaker": "Ben Adeyemi", "text": "I'll get you the sheet this week. One more context point: Harborview Labs isn't in anyone's system yet as far as I know — we haven't bought sales tooling before. Treat this as a net-new relationship, not an expansion of something else.", "timestamp": 372},
+    {"speaker": "Priya Shah", "text": "Understood — net new on our side too. I'll send the rollout one-pager and the trust links today. Once I have Ben's sheet I'll propose a working session. Thanks for the intro, both of you.", "timestamp": 408},
+    {"speaker": "Keira Holt", "text": "Thanks Priya. Looking forward to it.", "timestamp": 432}
+  ]
+}

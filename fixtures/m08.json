@@ -1,0 +1,33 @@
+{
+  "id": "mtg_2d7f18a5c9b043e6",
+  "name": "Cobalt working session",
+  "occurred_at": "2026-08-17T10:00:00-07:00",
+  "duration_seconds": 2220,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Sam Ortiz", "email": "sam@helios.example"},
+    {"name": "Elena Park", "email": "elena@cobaltbank.com"},
+    {"name": "Tom Wu", "email": "tom@cobaltbank.com"}
+  ],
+  "notes": "Working session with Elena and Tom at Cobalt Bank on Treasury add-on scoping: cash-position fields, who owns the weekly Treasury forecast, and how it sits next to the banking CRM. Renewal was mentioned only as something already in a separate negotiation, not the topic of this meeting.",
+  "action_items": [
+    {"text": "Send a scoping note for the Treasury add-on: objects, permissions, and a proposed sandbox", "owner_email": "sam@helios.example"},
+    {"text": "Confirm which Treasury fields can leave the core banking system", "owner_email": "tom@cobaltbank.com"}
+  ],
+  "transcript": [
+    {"speaker": "Elena Park", "text": "Priya, Sam — thanks. We booked this as a Cobalt working session specifically for Treasury add-on scoping. I don't want to spend it on the renewal. That one's already in negotiation with our procurement folks and a different thread.", "timestamp": 7},
+    {"speaker": "Priya Shah", "text": "We'll stay on Treasury. Tom, you're closer to the product side, right?", "timestamp": 32},
+    {"speaker": "Tom Wu", "text": "Yes. I own Treasury ops. The add-on we kicked off is about cash-position forecasting for corporate clients, not about renewing the core Helios seats. Different budget, different owner. If we mix them, Finance will reject both.", "timestamp": 44},
+    {"speaker": "Sam Ortiz", "text": "Makes sense. For scoping I need: which object is the cash position, who is allowed to edit a Treasury commit, and whether those users even have Helios logins today. Renewal users are AEs. Treasury users are probably not.", "timestamp": 78},
+    {"speaker": "Elena Park", "text": "Correct. AEs should not see client cash. The Treasury add-on needs a tighter permission set. I'm fine if the renewal keeps going on its own timeline. Please don't shove Treasury fields into that negotiation as a sweetener. It muddies the paper.", "timestamp": 108},
+    {"speaker": "Tom Wu", "text": "Functionally we need a weekly Treasury meeting that looks like a forecast meeting but the rows are cash positions, not opportunities. If Helios can only model opportunities, we have to say so now rather than pretend during a demo.", "timestamp": 144},
+    {"speaker": "Sam Ortiz", "text": "We can model a Treasury object with a commit and a manager overlay. It is not the opportunity object. That's why this is an add-on, not a configuration of what you already bought. I'll put that in the scoping note so nobody 'just uses deals' as a shortcut.", "timestamp": 176},
+    {"speaker": "Elena Park", "text": "Good. Amount on our side for the add-on is still the discovery number we shared — forty-five-ish. I'm not asking you to re-price the renewal in this room. I'm asking whether scoping is done enough to put a sandbox in front of two Treasury PMs next week.", "timestamp": 212},
+    {"speaker": "Priya Shah", "text": "That's the bar. Sam will send the object list and permission matrix. Tom, if you can confirm which fields are allowed out of the core banking system, we won't design a sandbox we can't populate.", "timestamp": 248},
+    {"speaker": "Tom Wu", "text": "I'll confirm. Constraint: no raw account numbers in Helios. Masked client names are fine. If your sandbox needs a join key, we can use our internal Treasury id.", "timestamp": 276},
+    {"speaker": "Elena Park", "text": "Last thing. Legal already has the renewal redlines. If you send a new MSA for Treasury, send it as an addendum, not a replacement. I don't want the renewal lawyers to think we reopened their deal.", "timestamp": 300},
+    {"speaker": "Priya Shah", "text": "Addendum. We'll keep the threads separate in email too — Treasury add-on in the subject, not 'Cobalt renewal plus.' Thanks for keeping us honest.", "timestamp": 328},
+    {"speaker": "Tom Wu", "text": "Appreciate it. Talk after the scoping note.", "timestamp": 352},
+    {"speaker": "Sam Ortiz", "text": "I'll have it to you this afternoon.", "timestamp": 360}
+  ]
+}

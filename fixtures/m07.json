@@ -1,0 +1,34 @@
+{
+  "id": "mtg_9c4e2b71a06d8351",
+  "name": "Apex QBR",
+  "occurred_at": "2026-08-17T13:00:00-07:00",
+  "duration_seconds": 2400,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Ruth Keene", "email": "ruth@apexhealth.io"},
+    {"name": "Chris Hale", "email": "chris@apexrobotics.com"}
+  ],
+  "notes": "Apex QBR with Ruth Keene from Apex Health. Chris Hale joined because he sits on a shared IT steering group. Conversation was the Health pilot: HIPAA, clinicians, and whether the pilot can stay in a BAA-covered workspace. Not a robotics Enterprise seats discussion.",
+  "action_items": [
+    {"text": "Send HIPAA / BAA packet and confirm the Health pilot workspace is isolated from other Apex tenants", "owner_email": "priya@helios.example"},
+    {"text": "Share the clinician workflow write-up from the pilot sites", "owner_email": "ruth@apexhealth.io"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Ruth, Chris — thanks for the QBR time. Ruth, I assumed you'd drive; Chris, I have you as optional from the invite.", "timestamp": 8},
+    {"speaker": "Ruth Keene", "text": "I'll drive. I'm Ruth Keene, I run the Apex Health pilot. Chris is here because IT won't let me sign anything without a robotics person on the thread. This is not his Enterprise deal. We are talking about clinicians and a Health pilot, not robot-arm seats.", "timestamp": 22},
+    {"speaker": "Chris Hale", "text": "That's right. I'm Chris Hale from Apex Robotics. I am not here to talk Enterprise forecasting. Shared parent, different company, different budget. I'll stay muted unless HIPAA or IT comes up.", "timestamp": 56},
+    {"speaker": "Priya Shah", "text": "Understood. Ruth, how's the Health pilot actually going? Last we spoke you were in Proposal with a couple of clinic sites.", "timestamp": 82},
+    {"speaker": "Ruth Keene", "text": "The clinicians will use this if the PHI story is boring, which is a compliment. We need a BAA, audit logs, and no training on patient notes. The pilot is three clinics. If those go well, Health has its own expansion path. It does not ride on Apex Robotics Enterprise.", "timestamp": 98},
+    {"speaker": "Chris Hale", "text": "IT's only question is isolation. Health cannot live in the same workspace as Robotics. Different data classifications. If your answer is 'same tenant, different dashboards,' this pilot dies.", "timestamp": 138},
+    {"speaker": "Priya Shah", "text": "Separate workspace, separate encryption context, BAA on that workspace. I'll send the packet after this. We will not mix Health PHI with anything on the robotics side.", "timestamp": 166},
+    {"speaker": "Ruth Keene", "text": "Good. QBR-wise, what I owe my CMO: are we still on track to finish the pilot write-up in September, and did anything in HIPAA land slip. Forecast coaching can wait. These users are clinicians, not AEs. Enterprise seats are a different conversation on a different calendar.", "timestamp": 188},
+    {"speaker": "Priya Shah", "text": "No upsell. Health pilot only. September write-up is still realistic if we get the BAA signed this month. I'll also confirm the workspace isolation in writing so Chris can close the IT ticket.", "timestamp": 232},
+    {"speaker": "Chris Hale", "text": "If that letter is clear, I'm out of your hair. I'm happy to help Health because it's the same Apex badge in the lobby. I am not moving Health numbers into the robotics forecast.", "timestamp": 258},
+    {"speaker": "Ruth Keene", "text": "Please don't. Our proposal is the Health pilot, twenty-five thousand, clinics, HIPAA. That's the live commercial conversation on my side. Robotics can have their own QBR.", "timestamp": 284},
+    {"speaker": "Priya Shah", "text": "I'll write the recap to you, Ruth, and copy Chris for IT only. Packet later today. Anything else on clinicians or PHI before we drop?", "timestamp": 318},
+    {"speaker": "Ruth Keene", "text": "One: the clinic champions want a quieter UI. Fewer charts, more 'what do I do with this patient panel.' If you have a healthcare-shaped view, send it. If not, say so. I would rather know than demo a sales dashboard at a nurse manager.", "timestamp": 338},
+    {"speaker": "Priya Shah", "text": "We have a stripped layout we use with clinical ops. I'll include screenshots in the packet. Thanks both.", "timestamp": 378},
+    {"speaker": "Ruth Keene", "text": "Thanks Priya. Chris, you're free.", "timestamp": 396},
+    {"speaker": "Chris Hale", "text": "Thanks. Back to robotics land.", "timestamp": 404}
+  ]
+}

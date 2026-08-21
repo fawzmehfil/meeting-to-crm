@@ -1,0 +1,33 @@
+{
+  "id": "mtg_a4c18e92b7d056f3",
+  "name": "Fairharbor re-engage",
+  "occurred_at": "2026-08-20T10:00:00-07:00",
+  "duration_seconds": 1980,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Vic Singh", "email": "vic@fairharbor.com"}
+  ],
+  "notes": "Vic Singh, now CFO at Fairharbor, asked to evaluate Helios again. Last year's attempt is closed and in the past. New budget, new owner, new pass at a forecast process.",
+  "action_items": [
+    {"text": "Send Vic a fresh evaluation plan and a sandbox that does not reuse last year’s workspace", "owner_email": "priya@helios.example"},
+    {"text": "Share current AE count and the board forecast calendar for the rest of the year", "owner_email": "vic@fairharbor.com"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Vic, good to hear from you. It's been a while. Congrats on the CFO role — I still had you as VP Finance in my head.", "timestamp": 7},
+    {"speaker": "Vic Singh", "text": "New CFO as of June. That's why I asked for time. I want to evaluate again. Last year's attempt is in the past. We passed, it was the right call then, and I am not trying to dust off that paper.", "timestamp": 22},
+    {"speaker": "Priya Shah", "text": "Understood. Fresh look. What changed besides the title?", "timestamp": 56},
+    {"speaker": "Vic Singh", "text": "I own the number now. The board wants a forecast I didn't build in Excel the night before. We have more AEs than we did in 2025, and the process we used when we said no last year was a founder ritual, not a finance one. I need something I can stand behind in an audit committee.", "timestamp": 68},
+    {"speaker": "Priya Shah", "text": "Last year the conversation died in security and a messy champion situation, if I remember. Are those actually gone, or still landmines?", "timestamp": 108},
+    {"speaker": "Vic Singh", "text": "Security is mine now, so that's faster. The person who ran it last year left. I want a new evaluation, new commercial conversation, new everything. Last year's paper is closed. I'm not trying to pick that back up.", "timestamp": 124},
+    {"speaker": "Priya Shah", "text": "We can do that. New sandbox, not the old workspace. Who else needs to be in the eval besides you?", "timestamp": 168},
+    {"speaker": "Vic Singh", "text": "Our VP of Sales, Maya, and one manager. I will be in the commercial conversation because I'm the CFO. Maya will live in the weekly meeting. I don't want this staffed like a resurrection of last year with the same people who already voted no.", "timestamp": 184},
+    {"speaker": "Priya Shah", "text": "I'll send a clean eval plan: sandbox, one manager meeting, then commercial. Separate from whatever 2025 was. Timeline on your side?", "timestamp": 220},
+    {"speaker": "Vic Singh", "text": "I'd like a working view before November board. If we can't get there, I'd rather not start. I'm not shopping eight vendors. I'm giving Helios a second look because we already know each other, not because I'm running a bake-off.", "timestamp": 240},
+    {"speaker": "Priya Shah", "text": "I'll keep the process tight. Send AE count and the remaining board dates and I'll put dates on a plan. Anything else that would make this feel like last year in a bad way?", "timestamp": 276},
+    {"speaker": "Vic Singh", "text": "Don't send me last year's proposal with the dates changed. It's a new CFO wanting to evaluate again. That's the whole story.", "timestamp": 300},
+    {"speaker": "Priya Shah", "text": "New eval, new paper. I'll send the plan this afternoon. Thanks Vic — and congrats again.", "timestamp": 328},
+    {"speaker": "Vic Singh", "text": "If the first session looks like last year's deck I will say so. I want Maya to see a live meeting, not a retrospective.", "timestamp": 344},
+    {"speaker": "Priya Shah", "text": "Live sandbox, current product. Talk soon.", "timestamp": 364},
+    {"speaker": "Vic Singh", "text": "Thanks Priya. Talk soon.", "timestamp": 376}
+  ]
+}

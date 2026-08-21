@@ -1,0 +1,31 @@
+{
+  "id": "mtg_c8e25f10a4b396d7",
+  "name": "Morgan / Helios",
+  "occurred_at": "2026-08-19T11:00:00-07:00",
+  "duration_seconds": 1860,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Morgan Blake", "email": "morgan.blake@gmail.com"}
+  ],
+  "notes": "Morgan Blake joined from Gmail. Conversation was the Plant 3 rollout at Keystone — steel mill, production supervisors, a forecast for the new line. Not a professional-services or legal motion.",
+  "action_items": [
+    {"text": "Send a Plant 3 rollout outline: supervisor meeting cadence and what we need from the mill’s CRM", "owner_email": "priya@helios.example"},
+    {"text": "Share the Plant 3 org chart and the current production-forecast spreadsheet", "owner_email": "morgan.blake@gmail.com"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Morgan, thanks for grabbing time. Calendar just had a Gmail. I want to make sure I know which Morgan I'm talking to.", "timestamp": 6},
+    {"speaker": "Morgan Blake", "text": "Happens a lot. I'm Morgan Blake. Personal Gmail because I'm on site at the mill this week and the corporate laptop is being imaged. I'm at Keystone — Keystone Steel. I'm here about the Plant 3 rollout, not anything else you might have under my name.", "timestamp": 18},
+    {"speaker": "Priya Shah", "text": "Plant 3, steel. Tell me what rollout means on your side.", "timestamp": 52},
+    {"speaker": "Morgan Blake", "text": "Plant 3 is the new line. We need the supervisors to forecast output and the commercial team to forecast the tons that line will sell. Right now it's a spreadsheet taped to a whiteboard. I want that in a system before we hire the next wave of AEs who will sell Plant 3 capacity.", "timestamp": 64},
+    {"speaker": "Priya Shah", "text": "So this is an industrial rollout. Floor plus commercial, not a professional-services firm trying to forecast matters.", "timestamp": 104},
+    {"speaker": "Morgan Blake", "text": "Correct. We pour steel. I don't sit in a law office. Keystone, Plant 3, mill in Ohio. The work on our side has been living as Keystone Plant 3.", "timestamp": 118},
+    {"speaker": "Priya Shah", "text": "Got it. For a plant rollout we usually start with the commercial forecast — tons, price, ship month — and keep the supervisor meeting simple. I don't want to boil the mill in week one.", "timestamp": 152},
+    {"speaker": "Morgan Blake", "text": "Please don't. The plant manager will walk if we show them a sales dashboard. They need a weekly number they can argue with. The AEs need to see which tons are actually committed versus which are wishful.", "timestamp": 176},
+    {"speaker": "Priya Shah", "text": "We can split those views. Same underlying records, different meeting. Are you still the commercial owner for Plant 3, or did that move?", "timestamp": 208},
+    {"speaker": "Morgan Blake", "text": "I'm still the owner. I just couldn't get a Keystone calendar invite out from the mill Wi-Fi, which is why you're looking at Gmail. Please keep the work on Keystone Plant 3. I am not starting a side project from a personal inbox.", "timestamp": 224},
+    {"speaker": "Priya Shah", "text": "I'll recap to this address and to your Keystone email if I have it. Send the Plant 3 org chart and the production-forecast sheet when you're back on the corporate laptop.", "timestamp": 260},
+    {"speaker": "Morgan Blake", "text": "Will do. Timing: we heat the line in October. I'd like a working cadence in September so we're not inventing a forecast the week we pour.", "timestamp": 284},
+    {"speaker": "Priya Shah", "text": "I'll send a Plant 3 outline today. Thanks Morgan — good to put a face to the mill context.", "timestamp": 308},
+    {"speaker": "Morgan Blake", "text": "Thanks Priya. Keystone, Plant 3, steel. Talk soon.", "timestamp": 324}
+  ]
+}

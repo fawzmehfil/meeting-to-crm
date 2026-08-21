@@ -1,0 +1,33 @@
+{
+  "id": "mtg_3f91b6a0d2c847e5",
+  "name": "Apex + contractor",
+  "occurred_at": "2026-08-19T15:00:00-07:00",
+  "duration_seconds": 1740,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Sam Ortiz", "email": "sam@helios.example"},
+    {"name": "Nina Volk", "email": "nina@apexrobotics.com"},
+    {"name": "Amy Zhou", "email": "amy@quill.partners"}
+  ],
+  "notes": "Nina brought Amy Zhou, a contractor from Quill Partners, to help Apex pressure-test the Enterprise evaluation. Amy is staffed on Apex; Quill is not evaluating Helios for itself.",
+  "action_items": [
+    {"text": "Share the Thursday demo recording and sandbox login with Amy for the Apex Enterprise eval", "owner_email": "priya@helios.example"},
+    {"text": "Send Priya the list of Enterprise eval questions Amy is collecting from Apex stakeholders", "owner_email": "amy@quill.partners"}
+  ],
+  "transcript": [
+    {"speaker": "Nina Volk", "text": "Priya, Sam — I brought Amy Zhou. She's a contractor helping Apex on Enterprise. Amy's with Quill Partners, but she's staffed on us. I didn't want you to think Quill was shopping.", "timestamp": 8},
+    {"speaker": "Amy Zhou", "text": "Hi. That's right. I'm Amy Zhou, Quill Partners on the invoice, Apex Robotics on the work. Nina asked me to help run the Enterprise evaluation — requirements, vendor questions, the write-up for her leadership. Quill is not buying Helios. We don't have a sales team to forecast.", "timestamp": 28},
+    {"speaker": "Priya Shah", "text": "Glad you're here. We'll treat this as Apex Enterprise, same thread as Thursday's demo. Amy, what do you need from us to be useful to Nina?", "timestamp": 64},
+    {"speaker": "Amy Zhou", "text": "A sandbox login, the recording, and honest answers on SSO and manager override. I'll collect questions from Apex stakeholders so Nina isn't the only one in the eval. I will not be sending you a Quill master service agreement or asking for Quill pricing.", "timestamp": 84},
+    {"speaker": "Sam Ortiz", "text": "We can add you to the Apex sandbox, not a separate one. If we spin up a Quill workspace it will just confuse everyone.", "timestamp": 120},
+    {"speaker": "Nina Volk", "text": "Please don't. Amy is in our tenant as a guest. This is still Enterprise — Chris, Maya, the Clari comparison, Thursday's demo. Amy is here so I can get a cleaner recommendation for leadership.", "timestamp": 136},
+    {"speaker": "Amy Zhou", "text": "One process note. I'll send you a question list from an amy at quill.partners address because that's my laptop. The questions are Apex's. I'm a contractor on Apex Enterprise, not shopping for Quill.", "timestamp": 168},
+    {"speaker": "Priya Shah", "text": "We'll keep you associated to the Apex work. Anything from the eval I should know that didn't come through on Tuesday?", "timestamp": 204},
+    {"speaker": "Nina Volk", "text": "Amy found that our managers care more about coaching notes than the waterfall. That's helpful against Clari. Thursday should still lead with the override. Amy will join that call if I can get her a hold.", "timestamp": 220},
+    {"speaker": "Sam Ortiz", "text": "I'll add her to the Thursday hold and send sandbox access after this. Nina, you're still who we work with at Apex. Amy is helping you run the eval.", "timestamp": 252},
+    {"speaker": "Amy Zhou", "text": "That's exactly the split. I'll get you the question list today. Thanks for not making this a Quill pitch meeting.", "timestamp": 276},
+    {"speaker": "Priya Shah", "text": "We'll keep this on the Enterprise thread. I'll send sandbox access to both of you so Amy isn't blocked waiting on Nina. Thanks Nina, thanks Amy.", "timestamp": 296},
+    {"speaker": "Nina Volk", "text": "Talk Thursday. Amy, I'll forward you the original Enterprise brief so you're not reconstructing it from this call.", "timestamp": 318},
+    {"speaker": "Amy Zhou", "text": "Already have it — that's why I'm here. See you Thursday.", "timestamp": 336}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "mtg_e1b60a34d8c2579f",
+  "name": "Brightline freight-audit RFP",
+  "occurred_at": "2026-08-18T09:30:00-07:00",
+  "duration_seconds": 1920,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Omar Diaz", "email": "omar@brightline.co"}
+  ],
+  "notes": "Omar Diaz walked through a new freight-audit RFP with its own budget. He was explicit that this is not the Expansion SKU and not a reopen of Core. He wants a third, separate commercial path.",
+  "action_items": [
+    {"text": "Return a response to the freight-audit RFP with pricing on its own quote, not attached to Expansion", "owner_email": "priya@helios.example"},
+    {"text": "Send the RFP packet and the budget owner’s name", "owner_email": "omar@brightline.co"}
+  ],
+  "transcript": [
+    {"speaker": "Omar Diaz", "text": "Priya, thanks for making time. I put 'Brightline freight-audit RFP' on the calendar on purpose. This is a new RFP. Different budget. I do not want it folded into Expansion, and I do not want anyone reopening Core.", "timestamp": 6},
+    {"speaker": "Priya Shah", "text": "Understood. Core is done — we closed that. Expansion is the open SKU conversation. You're saying freight audit is neither of those.", "timestamp": 32},
+    {"speaker": "Omar Diaz", "text": "Correct. Core is the TMS we already bought. Expansion is extra carrier connectors, still under the same ops budget. Freight audit is a finance-owned project. They issued an RFP last week. New money, new exec sponsor, new timeline. If you reply inside the Expansion thread, Finance will bounce it.", "timestamp": 48},
+    {"speaker": "Priya Shah", "text": "So we should treat this as a third deal on Brightline, not a line item. Who's the sponsor, and what's the shape of the RFP?", "timestamp": 88},
+    {"speaker": "Omar Diaz", "text": "Sponsor is our VP of Finance. They want to catch duplicate freight bills and overcharges. The RFP asks for audit workflows, exception queues, and a forecast of recovered dollars — not sales forecast, recovered AP. I know that's a different motion than what you sold us for Core.", "timestamp": 104},
+    {"speaker": "Priya Shah", "text": "We can answer the RFP honestly. If a piece is outside Helios we'll say so instead of stuffing it into Expansion to keep one contract. I'd rather win or lose freight audit on its own paper.", "timestamp": 144},
+    {"speaker": "Omar Diaz", "text": "That's what I needed to hear. Please do not reopen Core to tack this on. Legal would have a fit, and Core's closed-won for a reason. And please don't rename Expansion to 'Expansion plus audit.' Expansion has a fifteen-k envelope and a different owner. This RFP is a separate envelope.", "timestamp": 168},
+    {"speaker": "Priya Shah", "text": "Separate quote, separate subject line. When is the RFP due, and can you send the packet?", "timestamp": 208},
+    {"speaker": "Omar Diaz", "text": "Due end of month. I'll send the packet today and the budget owner's name. I'm still the day-to-day because I know the Helios people, but I am not the economic buyer on this one. Don't fold it into Expansion just because my name is on both.", "timestamp": 220},
+    {"speaker": "Priya Shah", "text": "I won't. I'll write it up as a freight-audit response and keep Expansion where it is. Any vendors already in the RFP I should know about so we don't waste a section?", "timestamp": 260},
+    {"speaker": "Omar Diaz", "text": "Two audit specialists and one TMS rival. You're the only sales-tool vendor they invited, which is a little weird, but Finance liked that we already passed security. Use that. Don't pitch AE coaching in the response. They will think you didn't read it.", "timestamp": 280},
+    {"speaker": "Priya Shah", "text": "We'll answer the audit questions. Thanks Omar — send the packet and I'll turn a draft this week.", "timestamp": 316},
+    {"speaker": "Omar Diaz", "text": "Will do. New RFP, different budget, not Expansion, not Core. Thanks.", "timestamp": 328}
+  ]
+}

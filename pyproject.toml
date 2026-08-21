@@ -1,0 +1,44 @@
+[project]
+name = "meeting-to-crm"
+version = "0.1.0"
+description = "Meeting to Ergo CRM take-home"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=2,<3",
+    "pydantic>=2,<3",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<10",
+    "ruff>=0.12,<1",
+]
+
+[project.scripts]
+ergo-crm = "ergo_crm.__main__:main"
+meeting-to-crm = "meeting_to_crm.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["ergo_crm*", "meeting_to_crm*"]
+
+[tool.setuptools.package-data]
+ergo_crm = ["seed.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "live: calls the OpenAI API once for a structured-output contract check",
+    "live_matrix: calls the OpenAI API for the full fixture evaluation (expensive, excluded by default)",
+]
+addopts = "-m 'not live and not live_matrix'"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

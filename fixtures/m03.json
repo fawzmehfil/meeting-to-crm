@@ -1,0 +1,32 @@
+{
+  "id": "mtg_4e6b0c1d8a2f9375",
+  "name": "Driftwood + new VP",
+  "occurred_at": "2026-08-12T15:00:00-07:00",
+  "duration_seconds": 1860,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Sam Ortiz", "email": "sam@helios.example"},
+    {"name": "Lex Aguilar", "email": "lex@driftwood.tv"},
+    {"name": "Dana Kim", "email": "dana@driftwood.tv"}
+  ],
+  "notes": "Lex Aguilar introduced Dana Kim, Driftwood's new VP of Sales. Dana wants to start a formal evaluation of Helios for forecast and manager cadence. No prior commercial process — this would be Driftwood's first deal conversation.",
+  "action_items": [
+    {"text": "Send Dana a short eval plan: sandbox, one manager meeting, commercial timeline", "owner_email": "priya@helios.example"},
+    {"text": "Share current AE count and the tools Driftwood uses for pipeline review", "owner_email": "dana@driftwood.tv"}
+  ],
+  "transcript": [
+    {"speaker": "Lex Aguilar", "text": "Priya, thanks for hopping on. I wanted you to meet Dana Kim — she joined Driftwood last month as VP of Sales. I've been the person you've been pinging; she's the one who actually owns the number now.", "timestamp": 7},
+    {"speaker": "Dana Kim", "text": "Hi Priya, hi Sam. Yes — new VP, three weeks in. Lex has been holding the team together with a Monday pipeline call and a lot of Notion. I told him I don't want to invent a forecasting religion in my first quarter. I'd rather start an evaluation of something that already works.", "timestamp": 28},
+    {"speaker": "Priya Shah", "text": "Welcome. We talked to Lex last spring and then it went quiet, which is normal when there's no sales leader. Sounds like the timing is different now.", "timestamp": 64},
+    {"speaker": "Lex Aguilar", "text": "That's on me. I didn't want to pick a tool the new VP would rip out. Dana asked who we'd already spoken to. Helios was the honest answer, so I set this up rather than making her start from a vendor list.", "timestamp": 82},
+    {"speaker": "Dana Kim", "text": "I ran forecast at my last company in a heavier platform and hated the services layer. Driftwood is a streaming studio with a small AE team selling to brands. I need inspectable commits and a weekly meeting that doesn't eat Tuesday. If Helios can do that, I want to start an evaluation, not take another intro.", "timestamp": 112},
+    {"speaker": "Sam Ortiz", "text": "We usually run evals as: sandbox with your stages, one live forecast meeting, then a commercial conversation. Two or three weeks, not a six-week proof of concept. Dana, how many AEs, and what are they living in today?", "timestamp": 152},
+    {"speaker": "Dana Kim", "text": "Twelve AEs, two managers, me. CRM is Pipedrive. The forecast is a spreadsheet Lex still loves. I don't. Brand cycles are lumpy — a pilot can sit for months and then a twenty-seat deal closes in a week — so I care about manager judgment, not a model that pretends every deal is linear.", "timestamp": 178},
+    {"speaker": "Priya Shah", "text": "That's a good fit for how we work. We won't replace Pipedrive. We sit on top of it and make the weekly call about exceptions. For the eval I'd want one of your managers in the sandbox so it isn't just Dana and Lex nodding at a demo.", "timestamp": 220},
+    {"speaker": "Lex Aguilar", "text": "I can get Jordan, who runs the West pod. He's been asking for this. I am not the buyer here — I wanted Dana in the room so we don't stall another quarter.", "timestamp": 252},
+    {"speaker": "Dana Kim", "text": "I'll be the one who decides whether we start. Lex, I still want you in the eval because you know the history. Priya, send me a written plan with dates. If it looks sane, we start. I'm not shopping eight vendors; I'm trying to pick one and move.", "timestamp": 276},
+    {"speaker": "Sam Ortiz", "text": "We'll keep the plan short. Sandbox this month, one manager meeting, then we talk commercial. No implementation army.", "timestamp": 312},
+    {"speaker": "Priya Shah", "text": "I'll send that today, Dana, plus a couple of studio-shaped examples so it doesn't look like we only work with enterprise software companies. Thanks for the introduction, Lex — and Dana, welcome to the thread.", "timestamp": 328},
+    {"speaker": "Dana Kim", "text": "Thanks. Let's start the evaluation properly this time.", "timestamp": 358}
+  ]
+}

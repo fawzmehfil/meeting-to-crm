@@ -1,0 +1,35 @@
+{
+  "id": "mtg_8c2e41a7b9f04d6e",
+  "name": "Apex Enterprise follow-up",
+  "occurred_at": "2026-08-11T14:00:00-07:00",
+  "duration_seconds": 1980,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Sam Ortiz", "email": "sam@helios.example"},
+    {"name": "Nina Volk", "email": "nina@apexrobotics.com"},
+    {"name": "Chris Hale", "email": "chris@apexrobotics.com"}
+  ],
+  "notes": "Follow-up on Apex Enterprise. Nina and Chris walked through remaining eval questions. They want a deeper product demo this Thursday. Clari is also in the evaluation. Priya to send a Thursday agenda; Chris to loop in their ops lead.",
+  "action_items": [
+    {"text": "Send Thursday demo agenda covering forecasting, manager coaching, and rollout sequencing", "owner_email": "priya@helios.example"},
+    {"text": "Invite Apex ops lead to Thursday's demo", "owner_email": "chris@apexrobotics.com"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Hey Nina, hey Chris — thanks for making time. I pulled Sam in so we can go a bit deeper on the rollout questions from last week.", "timestamp": 8},
+    {"speaker": "Nina Volk", "text": "Appreciate it. Chris and I debriefed internally after the last call. Enterprise is still the live thread for us. We're trying to get the AE team onto one forecasting cadence before Q4 planning starts.", "timestamp": 22},
+    {"speaker": "Chris Hale", "text": "Yeah. Right now every manager has a slightly different spreadsheet, and the VP of Sales is tired of reconciling them on Sunday nights. If we buy something, it has to replace that ritual, not sit next to it.", "timestamp": 48},
+    {"speaker": "Sam Ortiz", "text": "That's the usual breaking point. Helios can take the sheet logic — commit, upside, the manager overlay — and put it on the opportunity record so the forecast meeting is just the exceptions.", "timestamp": 72},
+    {"speaker": "Nina Volk", "text": "We also owe you honesty on the rest of the eval. Procurement asked us to look at Clari as well. A couple of directors used it at their last company, so it is a real comparison, not a box-check.", "timestamp": 98},
+    {"speaker": "Priya Shah", "text": "Totally fair. Where Clari tends to win is the roll-up UI. Where we tend to win with teams your size is the coaching loop — the manager actually changes the forecast instead of staring at a waterfall. We can put those side by side on Thursday.", "timestamp": 124},
+    {"speaker": "Chris Hale", "text": "Thursday works if we keep it to an hour. I can get Maya from ops on, which we couldn't last time. She's the one who will actually run the weekly forecast if this goes anywhere.", "timestamp": 158},
+    {"speaker": "Nina Volk", "text": "Let's do the demo Thursday. I want to see a live commit snapshot, how a manager overrides a rep, and what an AE sees on Monday morning. If that looks clean, I can take a recommendation to leadership the week after.", "timestamp": 182},
+    {"speaker": "Sam Ortiz", "text": "We can run that in a sandbox with anonymized data so you're not looking at a slide. I'll also show the Clari-shaped report they usually ask for, so you can see we cover the same roll-up without making you live in two tools.", "timestamp": 214},
+    {"speaker": "Chris Hale", "text": "One constraint from IT: SSO and a SOC 2 packet before anyone else joins. I don't want Thursday to stall because security hasn't seen paperwork.", "timestamp": 248},
+    {"speaker": "Priya Shah", "text": "I'll send the trust center link today and put SSO on the Thursday agenda as a five-minute opener. Then we go straight into the demo. I'll send a calendar hold with the three demo chapters so Maya knows why she's there.", "timestamp": 268},
+    {"speaker": "Nina Volk", "text": "Perfect. We're not kicking off a new process — this is the same Enterprise evaluation. If Thursday is strong, the next conversation is commercial, not another discovery pass.", "timestamp": 302},
+    {"speaker": "Chris Hale", "text": "And just to name it: if Clari looks dramatically better on the roll-up, we'll say so. I'm not trying to run a bake-off forever. I want one system before September.", "timestamp": 328},
+    {"speaker": "Sam Ortiz", "text": "Understood. We'll spend the time on the parts that actually change the Monday meeting, not a feature tour.", "timestamp": 352},
+    {"speaker": "Priya Shah", "text": "I'll send the agenda and the security links this afternoon. Chris, if you can add Maya to the Thursday invite, we'll be set. Thanks both — looking forward to Thursday.", "timestamp": 368},
+    {"speaker": "Nina Volk", "text": "Thanks Priya, thanks Sam. Talk Thursday.", "timestamp": 392}
+  ]
+}

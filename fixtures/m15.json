@@ -1,0 +1,31 @@
+{
+  "id": "mtg_6b2e0d9f1a8347c5",
+  "name": "Elm next-step call",
+  "occurred_at": "2026-08-20T14:00:00-07:00",
+  "duration_seconds": 1860,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Jane Cho", "email": "jane@elm.co"}
+  ],
+  "notes": "Working next-step call with Jane Cho at Elm & Co on Elm Onboarding. Agreed next step is a security working session on Thursday, September 3. Jane is the person who will take the recommendation through Elm leadership.",
+  "action_items": [
+    {"text": "Send a Thursday 3 September security-session agenda and the trust-center links", "owner_email": "priya@helios.example"},
+    {"text": "Confirm attendees from Elm IT for the 3 September session", "owner_email": "jane@elm.co"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Jane, thanks for the next-step call. I wanted to leave today with a date on the calendar, not another vague 'let's reconvene.'", "timestamp": 8},
+    {"speaker": "Jane Cho", "text": "That's why I booked it. I'm Jane Cho, I still own Elm Onboarding on our side. We're past the 'is this interesting' stage. I need a concrete next step I can take to leadership.", "timestamp": 22},
+    {"speaker": "Priya Shah", "text": "What would make that useful for you? Security, commercial, a manager in a sandbox?", "timestamp": 52},
+    {"speaker": "Jane Cho", "text": "Security. IT asked for a working session, not a PDF. If we can do that the first week of September, I can take a recommendation into the leadership meeting on the ninth. Without a date, this slips into Q4 and I lose the window.", "timestamp": 64},
+    {"speaker": "Priya Shah", "text": "Thursday, September 3 works on our side. Hour, working session, trust-center walkthrough plus SSO questions. I'll send an agenda. Does that date work as the next step?", "timestamp": 100},
+    {"speaker": "Jane Cho", "text": "Thursday September 3 is the next step. Put it down. I'll get someone from IT on that hold. After that session I'm willing to say internally that we should move forward, assuming nothing ugly shows up in SSO.", "timestamp": 122},
+    {"speaker": "Priya Shah", "text": "I'll send the hold today. On the Elm side, who actually carries this if IT is noisy? I don't want to find out in October that we were talking to the wrong person.", "timestamp": 152},
+    {"speaker": "Jane Cho", "text": "That's me. I run onboarding ops, I brought Helios in, and I'm the person the COO will ask. I'm not the CFO, but I am the one who will walk the recommendation through. If they want a budget signature, I'll bring finance. They will not take a vendor meeting without me.", "timestamp": 170},
+    {"speaker": "Priya Shah", "text": "That's the working relationship I needed. I'll treat you as the person we keep close on Elm Onboarding. Anything else to lock besides September 3?", "timestamp": 212},
+    {"speaker": "Jane Cho", "text": "Please send the agenda with 'security working session, Thursday September 3' in the subject so I can forward it without rewriting. And don't add a pile of new stakeholders on your own — I'll invite IT. I want one next step, one date, not a committee.", "timestamp": 232},
+    {"speaker": "Priya Shah", "text": "One hold, one agenda. I'll also recap in email: next step is the September 3 security session, you're driving internally. If that recap is wrong, tell me.", "timestamp": 272},
+    {"speaker": "Jane Cho", "text": "That's right. Next step is September 3. I'll own getting Elm to a decision after it. Thanks Priya — this is the call I wanted.", "timestamp": 294},
+    {"speaker": "Priya Shah", "text": "I'll send the invite in the next hour. Talk on the third.", "timestamp": 320},
+    {"speaker": "Jane Cho", "text": "Talk then.", "timestamp": 332}
+  ]
+}

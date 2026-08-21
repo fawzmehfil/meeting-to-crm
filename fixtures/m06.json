@@ -1,0 +1,30 @@
+{
+  "id": "mtg_5a18d4c7b2e390fa",
+  "name": "Apex robotics follow-up",
+  "occurred_at": "2026-08-14T16:30:00-07:00",
+  "duration_seconds": 1680,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Nina Volk", "email": "nina.volk@gmail.com"}
+  ],
+  "notes": "Nina jumped on from her personal calendar after the Apex Enterprise thread. She wanted to confirm Thursday's demo still holds and to share a Clari question she didn't want on the work thread. Same Enterprise evaluation as the earlier follow-up with Chris.",
+  "action_items": [
+    {"text": "Keep Thursday's Enterprise demo on the calendar; send Nina the agenda on her work email as well", "owner_email": "priya@helios.example"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Nina — I saw this hold come through on a Gmail invite. Just us?", "timestamp": 6},
+    {"speaker": "Nina Volk", "text": "Yeah, sorry. I'm Nina Volk, I'm still at Apex Robotics. I didn't want to put this on the work calendar because Chris forwards everything. I'm on my personal email today. Same Enterprise conversation as Tuesday, not a new company.", "timestamp": 18},
+    {"speaker": "Priya Shah", "text": "Got it. We're still on the Apex Enterprise follow-up, just a quieter channel. Thursday's demo still good?", "timestamp": 48},
+    {"speaker": "Nina Volk", "text": "Thursday is still the next step. Chris added Maya. I wanted to flag something I didn't say in front of him. One of our directors is pushing Clari harder than I let on. He used it at Snowflake. If Thursday is only a product tour, he'll say we already know the category.", "timestamp": 62},
+    {"speaker": "Priya Shah", "text": "Then Thursday should open with the manager override, not a homepage. We can show how a commit changes in the meeting instead of in a Clari-style waterfall after the fact.", "timestamp": 102},
+    {"speaker": "Nina Volk", "text": "That's what I needed. I'm the same Nina you've been working with — Volk, Apex Robotics, Enterprise seats, Chris Hale on the thread. I barely check this Gmail; it's just how I grabbed thirty minutes while I was out.", "timestamp": 128},
+    {"speaker": "Priya Shah", "text": "I'll keep sending Apex mail to nina at apexrobotics. This is just how you grabbed thirty minutes. Anything else from the Enterprise thread I should know before Thursday?", "timestamp": 164},
+    {"speaker": "Nina Volk", "text": "IT asked for the SOC 2. I forwarded the trust center link. Procurement is not in the demo. If they join later it's a paper process, not a second evaluation. We're not kicking off a robotics-wide RFP. This is still Enterprise, the open one.", "timestamp": 186},
+    {"speaker": "Priya Shah", "text": "Clear. I'll send the Thursday agenda to your Apex address and copy Chris. If the Clari director joins, we'll have the side-by-side ready.", "timestamp": 224},
+    {"speaker": "Nina Volk", "text": "He might. His name is Raj. He will ask about historical snapshots. If you can show a week-over-week commit without exporting to Sheets, that helps me internally.", "timestamp": 244},
+    {"speaker": "Priya Shah", "text": "We can. I'll add a two-minute snapshot clip so we don't spend the hour on it. Thanks for the heads-up, Nina. I'll see you Thursday with Chris and Maya.", "timestamp": 272},
+    {"speaker": "Nina Volk", "text": "See you then. And thanks for not making me explain who I am from a Gmail address for twenty minutes.", "timestamp": 296},
+    {"speaker": "Priya Shah", "text": "You're still Nina at Apex. Talk Thursday. I'll send the agenda to work email as soon as I'm off this call.", "timestamp": 312},
+    {"speaker": "Nina Volk", "text": "Perfect. If Raj joins Thursday I'll warn you in Slack from my Apex handle, not this Gmail.", "timestamp": 328}
+  ]
+}

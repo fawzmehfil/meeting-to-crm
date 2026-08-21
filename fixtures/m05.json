@@ -1,0 +1,33 @@
+{
+  "id": "mtg_0f3c9a12e8d746b2",
+  "name": "Podcast taping",
+  "occurred_at": "2026-08-13T11:00:00-07:00",
+  "duration_seconds": 2700,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Mara Ellison", "email": "guest@example.net"}
+  ],
+  "notes": "Podcast taping. Mara Ellison (host) interviewed Priya as a guest about forecast meetings and manager coaching. Not a sales conversation and not a customer evaluation.",
+  "action_items": [
+    {"text": "Send Mara the one-paragraph bio and the book mention for show notes", "owner_email": "priya@helios.example"},
+    {"text": "Share the edit cut when it is ready", "owner_email": "guest@example.net"}
+  ],
+  "transcript": [
+    {"speaker": "Mara Ellison", "text": "Alright, we are rolling. This is a podcast taping for Pipeline After Hours. I'm Mara Ellison, and my guest today is Priya Shah from Helios. Priya, thanks for coming on as a guest.", "timestamp": 5},
+    {"speaker": "Priya Shah", "text": "Thanks for having me. I should say up front this is not a pitch. You asked me to talk about forecast meetings that don't waste Tuesdays, so that's what I'll do.", "timestamp": 22},
+    {"speaker": "Mara Ellison", "text": "Perfect. Our listeners are sales managers, not buyers sitting in a demo. Let's start with the ritual. What do you see go wrong in a weekly forecast call?", "timestamp": 44},
+    {"speaker": "Priya Shah", "text": "People narrate the CRM. Forty minutes of 'this one slipped, that one slipped' and no one changes a number. The meeting should be the exceptions — deals where the manager disagrees with the rep — and then you leave with a commit you could defend to a CFO.", "timestamp": 62},
+    {"speaker": "Mara Ellison", "text": "You used to be an AE. Did you hate those meetings too?", "timestamp": 98},
+    {"speaker": "Priya Shah", "text": "I did. I would sandbag because the meeting punished honesty. If I said a deal was at risk, it became a performance review. A good forecast meeting is about the deal, not about whether I am optimistic enough.", "timestamp": 108},
+    {"speaker": "Mara Ellison", "text": "We're going to pause for an ad read later, ignore that. For the tape: you now work at Helios. For listeners who don't know it, give a one-sentence version that isn't a slogan.", "timestamp": 142},
+    {"speaker": "Priya Shah", "text": "We help sales teams put the forecast on the opportunity instead of in a spreadsheet, and we give managers a coaching loop so the number actually moves. That's the job. I'm here as a practitioner, not to walk anyone through a trial.", "timestamp": 162},
+    {"speaker": "Mara Ellison", "text": "Love that. Let's talk coaching. A manager has twelve reps. How do they spend the hour?", "timestamp": 196},
+    {"speaker": "Priya Shah", "text": "Ten minutes on the roll-up, fifty on three deals. If you can't name the three deals before the meeting, you don't have a process, you have a status dump. I walk through a made-up example — a mid-market AE, a stuck champion, a date that keeps slipping — so this stays a taping, not a working session on anyone's real pipeline.", "timestamp": 208},
+    {"speaker": "Mara Ellison", "text": "We'll keep names fictional, yes. I also want a segment on what not to do when a founder still owns the number. A lot of our audience is first-time VPs.", "timestamp": 252},
+    {"speaker": "Priya Shah", "text": "Don't let the founder type the commit in the sheet the night before and then ask the team to explain it. Either they own the number or the team does. Split ownership is how you get two forecasts and a surprise at the board meeting.", "timestamp": 272},
+    {"speaker": "Mara Ellison", "text": "That's going to clip well. We're not doing a product demo on this show — I'll say that on the tape so nobody writes in asking for a trial link. Priya, any book or habit you want in the show notes?", "timestamp": 308},
+    {"speaker": "Priya Shah", "text": "The habit is writing the commit definition in one sentence and putting it at the top of the meeting doc. If the sentence changes every quarter, the history is garbage. That's it. No coupon code.", "timestamp": 332},
+    {"speaker": "Mara Ellison", "text": "We'll fade on that. Thanks for being a guest. I'll send the edit. This was a taping, not a sales meeting, and I'll mark the calendar that way so my producer doesn't file it under pipeline.", "timestamp": 360},
+    {"speaker": "Priya Shah", "text": "Please do. Thanks Mara — this was fun.", "timestamp": 388}
+  ]
+}

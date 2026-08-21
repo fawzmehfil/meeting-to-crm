@@ -1,0 +1,34 @@
+{
+  "id": "mtg_b7d21e90c4a65f18",
+  "name": "Helios weekly standup",
+  "occurred_at": "2026-08-10T09:00:00-07:00",
+  "duration_seconds": 1500,
+  "attendees": [
+    {"name": "Priya Shah", "email": "priya@helios.example"},
+    {"name": "Sam Ortiz", "email": "sam@helios.example"}
+  ],
+  "notes": "Internal Helios weekly standup. Priya and Sam covered pipeline chatter, demo load, and who is covering for whom this week. No customer on the call.",
+  "action_items": [
+    {"text": "Priya covers the Thursday Apex demo if Sam's flight slips", "owner_email": "priya@helios.example"},
+    {"text": "Sam sends Priya the sandbox snapshot before Wednesday", "owner_email": "sam@helios.example"}
+  ],
+  "transcript": [
+    {"speaker": "Priya Shah", "text": "Morning. Weekly standup — just us two this week, Jordan's out. I'll run the board quickly and we can talk coverage.", "timestamp": 4},
+    {"speaker": "Sam Ortiz", "text": "Sounds good. I have a flight Thursday night so anything customer-facing Thursday I need a backup for.", "timestamp": 16},
+    {"speaker": "Priya Shah", "text": "Apex is the one on Thursday. I can own that demo. If you can still push the sandbox snapshot Wednesday we're fine. I don't need you live unless they get into SSO weeds.", "timestamp": 28},
+    {"speaker": "Sam Ortiz", "text": "Snapshot Wednesday is easy. Pipeline-wise, Apex feels like the only thing that might actually move this month. Driftwood went quiet again until Lex emailed. Cobalt is two threads and I keep mixing them up in Slack, which is a me problem.", "timestamp": 52},
+    {"speaker": "Priya Shah", "text": "Right — this is us comparing notes, not a working session with them. If Cobalt asks for a recap, we send it from the working session, not from standup.", "timestamp": 84},
+    {"speaker": "Sam Ortiz", "text": "Agreed. I'm also behind on the internal enablement deck. Can we keep this standup to coverage and demos and not turn it into a hygiene hour?", "timestamp": 108},
+    {"speaker": "Priya Shah", "text": "Yes. Hygiene is Friday with RevOps. Today: coverage, demos, blockers. Brightline pinged me about a new RFP — I'll take the meeting. Harborview is an intro I booked, I don't need you on it. Elm is a next-step call I can do alone.", "timestamp": 136},
+    {"speaker": "Sam Ortiz", "text": "Fairharbor came back? I thought that died last year.", "timestamp": 168},
+    {"speaker": "Priya Shah", "text": "Vic asked for time. We'll see if it's real. Not something to celebrate in the forecast yet. I'll take it and we can talk after, not in standup.", "timestamp": 176},
+    {"speaker": "Sam Ortiz", "text": "Podcast taping is on me to not mess up your calendar. That's Wednesday, right? You're the guest, I'm not joining.", "timestamp": 198},
+    {"speaker": "Priya Shah", "text": "Wednesday, yes. Block it as busy, not as a sales meeting. If someone on the team sees 'Priya / podcast' and thinks it's a prospect, tell them it isn't.", "timestamp": 214},
+    {"speaker": "Sam Ortiz", "text": "Got it. Other blockers: the sandbox is slow after the last deploy. I'll nag eng. And can you remind the team in Slack that weekly standup is internal? Two AEs tried to add customers last month and it was a mess.", "timestamp": 236},
+    {"speaker": "Priya Shah", "text": "I'll post it. Anything else, or are we done in twenty-five minutes like adults?", "timestamp": 268},
+    {"speaker": "Sam Ortiz", "text": "One more: can you ping Jordan when he's back that the Apex sandbox snapshot is his to maintain after Thursday? I don't want it rotting in my queue while I'm traveling.", "timestamp": 274},
+    {"speaker": "Priya Shah", "text": "I'll ping him. If the snapshot is late, I'll use last week's and we'll live. Not worth a fire drill in standup.", "timestamp": 292},
+    {"speaker": "Sam Ortiz", "text": "I'm done then. I'll send the Apex snapshot Wednesday. Have a good one.", "timestamp": 310},
+    {"speaker": "Priya Shah", "text": "Thanks. See you on Slack.", "timestamp": 322}
+  ]
+}
